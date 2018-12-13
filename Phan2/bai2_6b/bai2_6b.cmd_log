@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Ngan_hang_logic_So/bai2_6b/bai2_6b.xst" -ofn "D:/Ngan_hang_logic_So/bai2_6b/bai2_6b.syr" 
+xst -intstyle ise -ifn "D:/Ngan_hang_logic_So/bai2_6b/bai2_6b.xst" -ofn "D:/Ngan_hang_logic_So/bai2_6b/bai2_6b.syr" 
