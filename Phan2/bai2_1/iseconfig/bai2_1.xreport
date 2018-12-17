@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2018-12-04T14:51:19</DateModified>
+  <DateModified>2018-12-14T22:53:47</DateModified>
   <ModuleName>bai2_1</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>D:/Ngan_hang_logic_So/bai2_1/iseconfig/bai2_1.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/Ngan_hang_logic_So/bai2_1</ImplementationReportsDirectory>
+  <SavedFilePath>D:/Digital_Logic/Phan2/bai2_1/iseconfig/bai2_1.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>D:/Digital_Logic/Phan2/bai2_1\</ImplementationReportsDirectory>
   <DateInitialized>2018-12-04T14:51:18</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

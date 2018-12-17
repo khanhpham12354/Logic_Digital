@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -lib "secureip" -o "D:/Ngan_hang_logic_So/bai2_1/bai2_test_isim_beh.exe" -prj "D:/Ngan_hang_logic_So/bai2_1/bai2_test_beh.prj" "work.bai2_test" 
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Digital_Logic/Phan2/bai2_1/bai2_test_isim_beh.exe" -prj "D:/Digital_Logic/Phan2/bai2_1/bai2_test_beh.prj" "work.bai2_test" 

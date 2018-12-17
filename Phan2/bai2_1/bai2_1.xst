@@ -1,5 +1,5 @@
-set -tmpdir "D:/Ngan_hang_logic_So/bai2_1/xst/projnav.tmp"
-set -xsthdpdir "D:/Ngan_hang_logic_So/bai2_1/xst"
+set -tmpdir "D:/Digital_Logic/Phan2/bai2_1/xst/projnav.tmp"
+set -xsthdpdir "D:/Digital_Logic/Phan2/bai2_1/xst"
 run -compileonly yes
 -p xc7a100t-3-csg324
 -top bai2_1

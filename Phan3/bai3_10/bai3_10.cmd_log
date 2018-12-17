@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Digital_Logic/Phan3/bai3_10/bai3_10.xst" -ofn "D:/Digital_Logic/Phan3/bai3_10/bai3_10.syr" 

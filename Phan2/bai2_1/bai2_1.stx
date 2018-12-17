@@ -1,16 +1,16 @@
 Release 14.7 - xst P.20131013 (nt64)
 Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
---> Parameter TMPDIR set to D:/Ngan_hang_logic_So/bai2_1/xst/projnav.tmp
+--> Parameter TMPDIR set to D:/Digital_Logic/Phan2/bai2_1/xst/projnav.tmp
 
 
-Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.26 secs
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.31 secs
  
---> Parameter xsthdpdir set to D:/Ngan_hang_logic_So/bai2_1/xst
+--> Parameter xsthdpdir set to D:/Digital_Logic/Phan2/bai2_1/xst
 
 
-Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.26 secs
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.32 secs
  
 --> Reading design: bai2_1.prj
 
@@ -39,17 +39,17 @@ TABLE OF CONTENTS
 =========================================================================
 *                          HDL Parsing                                  *
 =========================================================================
-Parsing VHDL file "D:\Ngan_hang_logic_So\bai2_1\bai2_1.vhd" into library work
+Parsing VHDL file "D:\Digital_Logic\Phan2\bai2_1\bai2_1.vhd" into library work
 Parsing entity <bai2_1>.
 Parsing architecture <Behavioral> of entity <bai2_1>.
 
 
-Total REAL time to Xst completion: 14.00 secs
-Total CPU time to Xst completion: 14.57 secs
+Total REAL time to Xst completion: 16.00 secs
+Total CPU time to Xst completion: 16.11 secs
  
 --> 
 
-Total memory usage is 4532360 kilobytes
+Total memory usage is 4532364 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    0 (   0 filtered)

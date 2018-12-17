@@ -47,14 +47,14 @@ begin
 					q2 <= dvi_in;
 				else
 					q2 <= q2 - 1;
+					if(q2 = "0000") then
+						q2 <= "1001";
+						q1 <= q1 - 1;
+						if(q1 = "0000") then
+							q1 <= "0101";
+						end if;
+					end if;
 				end if;
-			end if;
-			if(q2 = "1111") then 
-				q2 <= "1001";
-				q1 <= q1 - 1;
-			end if;
-			if(q1 = "1111") then
-				q1 <= "0101";
 			end if;
 		end if;
 	end process;
